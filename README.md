@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+![Twitter: Abreusleo](https://img.shields.io/badge/Twitter%3A%20Abreusleo?style=social&logo=twitter)
+
+
+
 ### 🚧 WIP 🚧
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/649b129bd99c9d67319accf6?variant=dark)](https://roadmap.sh)
