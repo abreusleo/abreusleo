@@ -11,7 +11,7 @@
 
 <p><em>Currently working as a Junior Software Engineer @ <a href="https://stoneage.com.br">StoneAge</a></em></p>
 </br>
-<p><em>Computer Engineer Graduated @ <a href="http://www.puc-rio.br/english/">Pontifical Catholic University of Rio de Janeiro</a></em></p>  </br>  </br>
+<p><em>Computer Engineer by <a href="http://www.puc-rio.br/english/">Pontifical Catholic University of Rio de Janeiro</a></em></p>  </br>  </br>
 
 ## About me
 ```cs
@@ -25,7 +25,7 @@ Developer Leonardo = new Developer{
 }
 ```
 
-<p>&emsp;I am a Computer Engineer graduated @ Pontifícia Universidade Católica do Rio de Janeiro. Skilled in C#, Python, Java and a fast learner interested in any new language. I've always enjoyed studying and that explains many of the personal projects I've developed such as bots, game mods, code benchmarks and other applications for personal use.</p>
+<p>&emsp;I am from Rio de Janeiro - BR. Skilled in C#, Python, Java and a fast learner interested in any new language. I've always enjoyed studying and that explains many of the personal projects I've developed such as bots, game mods, code benchmarks and other applications for personal use.</p>
 
 
 ## Git Stats
