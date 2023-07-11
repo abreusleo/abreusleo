@@ -26,11 +26,9 @@ Developer Leonardo = new Developer{
 
 <p>&emsp;I am a Computer Engineer graduated @ Pontifícia Universidade Católica do Rio de Janeiro. Skilled in C#, Python, Java and a fast learner interested in any new language. I've always enjoyed studying and that explains many of the personal projects I've developed such as bots, game mods, code benchmarks and other applications for personal use.</p>
 
+
 ## Git Stats
-<html>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abreusleo&layout=compact&theme=transparent&hide_border=true">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=abreusleo&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Leonardo's github stats" />
-</html>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=abreusleo&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Leonardo's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abreusleo&layout=compact&theme=transparent&hide_border=true">
 
 ## Track my Progress!
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/649b129bd99c9d67319accf6?variant=dark)](https://roadmap.sh)
