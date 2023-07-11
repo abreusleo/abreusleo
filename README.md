@@ -11,17 +11,20 @@
 <html>
   <img align='right'src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JsYnp2eXRod2pnaWxjN3ViMngzMHA5bnF2aWEwbWo2eHBwajVzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programmer gif" width="240" height="180">
 </html>
-  <p><em>Currently working as a Junior Software Engineer @ <a href="https://stoneage.com.br">StoneAge</a></em></p>
-  </br>
-  <p><em>Computer Engineer Graduated @ <a href="http://www.puc-rio.br/english/">Pontifical Catholic University of Rio de Janeiro</a></em></p>  </br>  </br>
+
+<p><em>Currently working as a Junior Software Engineer @ <a href="https://stoneage.com.br">StoneAge</a></em></p>
+</br>
+<p><em>Computer Engineer Graduated @ <a href="http://www.puc-rio.br/english/">Pontifical Catholic University of Rio de Janeiro</a></em></p>  </br>  </br>
 
 ## About me
-```javascript
-const leo = {
-  code: ["C#", "Python", "Java", "Javascript", "Typescript"],
-  tools: [".NET", "Docker", "Kubernetes", "Node", "Angular"],
-  architecture: ["Microservices", "Design system pattern"],
-  challenge: "Trying my best to learn and become a better developer!"
+```cs
+Programmer Leonardo = new Programmer{
+  Nickname = "Leo",
+  Code = new List<string> {"C#", "Python", "Java", "Javascript", "Typescript"},
+  Tools = new List<string> {".NET", "Docker", "Kubernetes", "Node", "Angular"}
+  Architecture = new List<string> {"Microservices", "Design system pattern"},
+  FunTime = new List<string> {"Play videogames", "Watch movies", "Hangout with friends", "Code benchmarks"}
+  State = "Trying my best to learn and become a better developer!"
 }
 ```
 
@@ -32,7 +35,7 @@ const leo = {
 ## Track my Progress!
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/649b129bd99c9d67319accf6?variant=dark)](https://roadmap.sh)
 
-## Contact
+## Contact me!
 leonardosabreu@pm.me
 <!--
 **abreusleo/abreusleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
