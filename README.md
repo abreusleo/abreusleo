@@ -1,17 +1,39 @@
 ### 🚧 WIP 🚧
 
+
+
 [![Twitter: Abreusleo](https://img.shields.io/twitter/follow/AbreusLeo?style=social)](https://twitter.com/AbreusLeo)
 [![Linkedin: Leonardo Abreu](https://img.shields.io/badge/-Abreusleo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abreusleo/)](https://www.linkedin.com/in/abreusleo/)
 [![GitHub Abreusleo](https://img.shields.io/github/followers/Abreusleo?label=follow&style=social)](https://github.com/abreusleo)
 
+
 ## Hey, I'm Leonardo Abreu!
-<p>Currently working as a Junior Software Engineer @ <a href="https://stoneage.com.br">StoneAge</a></p>
-<p>Computer Engineer Graduated @ <a href="http://www.puc-rio.br/english/">Pontifical Catholic University of Rio de Janeiro</a></p>
+<html>
+  <img align='right'src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JsYnp2eXRod2pnaWxjN3ViMngzMHA5bnF2aWEwbWo2eHBwajVzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programmer gif" width="240" height="180">
+</html>
+  <p><em>Currently working as a Junior Software Engineer @ <a href="https://stoneage.com.br">StoneAge</a></em></p>
+  </br>
+  <p><em>Computer Engineer Graduated @ <a href="http://www.puc-rio.br/english/">Pontifical Catholic University of Rio de Janeiro</a></em></p>  </br>  </br>
+
+## About me
+```javascript
+const leo = {
+  code: ["C#", "Python", "Java", "Javascript", "Typescript"],
+  tools: [".NET", "Docker", "Kubernetes", "Node", "Angular"],
+  architecture: ["Microservices", "Design system pattern"],
+  challenge: "Trying my best to learn and become a better developer!"
+}
+```
 
 <p>I am a Computer Engineer graduated @ Pontifícia Universidade Católica do Rio de Janeiro. Skilled in C#, Python, Java and a fast learner interested in any new language. I've always enjoyed studying and that explains many of the personal projects I've developed such as bots, game mods, code benchmarks and other applications for personal use.</p>
 
+
+
+## Track my Progress!
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/649b129bd99c9d67319accf6?variant=dark)](https://roadmap.sh)
 
+## Contact
+leonardosabreu@pm.me
 <!--
 **abreusleo/abreusleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
