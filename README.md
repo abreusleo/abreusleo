@@ -16,10 +16,10 @@
 ```cs
 Developer Leonardo = new Developer{
   Nickname = "Leo",
-  Code = new List<string> {"C#", "Python", "Java", "Javascript", "Typescript"},
-  Tools = new List<string> {".NET", "Docker", "Kubernetes", "Node", "Angular"}
-  Architecture = new List<string> {"Microservices", "Design system pattern"},
-  FunTime = new List<string> {"Play videogames", "Watch movies", "Hangout with friends", "Code benchmarks"}
+  Code = new List<string> { "C#", "Python", "Java", "Javascript", "Typescript" },
+  Tools = new List<string> { ".NET", "Docker", "Kubernetes", "Node", "Angular" }
+  Architecture = new List<string> { "Microservices", "Design system pattern" },
+  FunTime = new List<string> { "Play videogames", "Watch movies", "Hangout with friends", "Code benchmarks" }
   State = "Trying my best to learn and become a better developer!"
 }
 ```
