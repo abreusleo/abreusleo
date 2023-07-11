@@ -24,7 +24,7 @@ Developer Leonardo = new Developer{
 }
 ```
 
-<p>I am a Computer Engineer graduated @ Pontifícia Universidade Católica do Rio de Janeiro. Skilled in C#, Python, Java and a fast learner interested in any new language. I've always enjoyed studying and that explains many of the personal projects I've developed such as bots, game mods, code benchmarks and other applications for personal use.</p>
+<p>&emsp;I am a Computer Engineer graduated @ Pontifícia Universidade Católica do Rio de Janeiro. Skilled in C#, Python, Java and a fast learner interested in any new language. I've always enjoyed studying and that explains many of the personal projects I've developed such as bots, game mods, code benchmarks and other applications for personal use.</p>
 
 
 
