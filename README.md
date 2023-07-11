@@ -14,7 +14,7 @@
 
 ## About me
 ```cs
-Programmer Leonardo = new Programmer{
+Developer Leonardo = new Developer{
   Nickname = "Leo",
   Code = new List<string> {"C#", "Python", "Java", "Javascript", "Typescript"},
   Tools = new List<string> {".NET", "Docker", "Kubernetes", "Node", "Angular"}
