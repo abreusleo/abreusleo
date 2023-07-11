@@ -1,6 +1,7 @@
 [![Twitter: Abreusleo](https://img.shields.io/twitter/follow/AbreusLeo?style=social)](https://twitter.com/AbreusLeo)
 [![Linkedin: Leonardo Abreu](https://img.shields.io/badge/-Abreusleo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abreusleo/)](https://www.linkedin.com/in/abreusleo/)
-[![GitHub Abreusleo](https://img.shields.io/github/followers/Abreusleo?label=follow&style=social)](https://github.com/abreusleo)
+[![GitHub: Abreusleo](https://img.shields.io/github/followers/Abreusleo?label=follow&style=social)](https://github.com/abreusleo)
+![View Counter](https://komarev.com/ghpvc/?username=abreusleo&color=blue&label=👀)
 
 
 ## Hey, I'm Leonardo Abreu!
