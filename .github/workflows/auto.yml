@@ -1,4 +1,4 @@
-name: generate animation
+name: Snake Animation
 
 on:
   # Run once every 24 hours
@@ -26,10 +26,5 @@ jobs:
           gif_out_path: ./assets/github-contribution-grid-snake.gif
           svg_out_path: ./assets/github-contribution-grid-snake.svg
 
-      - name: Push to github
-        uses: EndBug/add-and-commit@v7.2.1
-        with:
-          branch: main
-          message: 'Generate contribution'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
