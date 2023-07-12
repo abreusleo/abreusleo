@@ -28,7 +28,6 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake-ocean.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-          svg_out_path: dist/github-contribution-grid-snake.svg
 
       - run: git status
 
