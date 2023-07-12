@@ -23,8 +23,9 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
-          gif_out_path: ./assets/github-contribution-grid-snake.gif
-          svg_out_path: ./assets/github-contribution-grid-snake.svg
+          outputs: |
+            ./assets/github-contribution-grid-snake.svg
+            ./assets/github-contribution-grid-snake-dark.gif
 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
