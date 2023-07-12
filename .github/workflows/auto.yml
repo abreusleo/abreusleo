@@ -1,4 +1,4 @@
-name: Snake Animation
+name: SnakeAnimation
 
 on:
   # Run once every 24 hours
@@ -19,13 +19,13 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      - name: Generate snake
-        uses: Platane/snk@master
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             ./assets/github-contribution-grid-snake.svg
-            ./assets/github-contribution-grid-snake-dark.gif
-
+            ./dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
