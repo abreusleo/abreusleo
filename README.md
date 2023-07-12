@@ -38,8 +38,11 @@ Developer Leonardo = new Developer{
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/649b129bd99c9d67319accf6?variant=dark)](https://roadmap.sh)
 
 
-## Contact me!
-leonardosabreu@pm.me
+### 📫 How to reach me?
+- [Twitter](https://twitter.com/abreusleo) 
+- [LinkedIn](https://www.linkedin.com/in/abreusleo) 
+- Email me!
+  - leonardosabreu@pm.me
 <!--
 **abreusleo/abreusleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
