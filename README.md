@@ -35,7 +35,7 @@ Developer Leonardo = new Developer{
 ![Contributions Snake](https://github.com/abreusleo/abreusleo/blob/output/github-contribution-grid-snake.svg)
 
 ## Track my Progress!
-[![Roadmap.sh](https://api.roadmap.sh/v1-badge/tall/649b129bd99c9d67319accf6?variant=dark)](https://roadmap.sh)
+![Roadmap.sh](https://api.roadmap.sh/v1-badge/tall/649b129bd99c9d67319accf6)
 
 
 ### 📫 How to reach me?
