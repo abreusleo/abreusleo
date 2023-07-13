@@ -25,7 +25,7 @@ Developer Leonardo = new Developer{
 }
 ```
 
-<p>&emsp;I am from Rio de Janeiro - Brazil. Skilled in C#, Python, Java and a fast learner interested in any new language. I've always enjoyed studying and that explains many of the personal projects I've developed such as bots, game mods, code benchmarks and other applications for personal use.</p>
+<p>&emsp;I am from Rio de Janeiro - Brazil. Skilled in C#, Python, Java and a fast learner interested in any new language. I've always enjoyed studying and that explains many of the personal projects I've developed such as <a href="https://github.com/abreusleo/BoapBot">bots</a>, game mods, <a href="https://github.com/abreusleo/LogBenchmark">code benchmarks</a> and other applications for personal use.</p>
 
 
 ## Git Stats
