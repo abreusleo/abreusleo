@@ -31,12 +31,6 @@ Developer Leonardo = new Developer{
 ## Git Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=abreusleo&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Leonardo's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abreusleo&layout=compact&theme=transparent&hide_border=true">
 
-### Contributions
-![Contributions Snake](https://github.com/abreusleo/abreusleo/blob/output/github-contribution-grid-snake.svg)
-
-## Track my Progress!
-![Roadmap.sh](https://api.roadmap.sh/v1-badge/tall/649b129bd99c9d67319accf6)
-
 
 ### 📫 How to reach me?
 - [Twitter](https://twitter.com/abreusleo) 
