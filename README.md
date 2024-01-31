@@ -9,7 +9,7 @@
   <img align='right'src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JsYnp2eXRod2pnaWxjN3ViMngzMHA5bnF2aWEwbWo2eHBwajVzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programmer gif" width="240" height="180">
 </html>
 
-<p><em>Currently working as a Junior Software Engineer @ <a href="https://stoneage.com.br">StoneAge</a></em></p>
+<p><em>Currently working as a Software Engineer @ <a href="https://stoneage.com.br">StoneAge</a></em></p>
 </br>
 <p><em>Computer Engineer by <a href="http://www.puc-rio.br/english/">Pontifical Catholic University of Rio de Janeiro</a></em></p>  </br>  </br>
 
